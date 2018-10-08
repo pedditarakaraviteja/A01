@@ -34,3 +34,7 @@ Visual Studio Code is recommended, but you can use Sublime, Notepad++, or any te
 - Dillinger.io (to validate markdown like this file): <http://dillinger.io/>
 - W3C Markup Validation Service: <https://validator.w3.org/>
 - Code Beautify CSS Validator: <http://codebeautify.org/cssvalidate>
+Done with A01 assignment.
+Updated my home pages with contact information,skills,education
+update in page of calculate about the strong reverse sqaure.
+update in contact page
